@@ -26,6 +26,5 @@ input.onButtonPressed(Button.A, function () {
     basic.pause(500)
     robotbit.Servo(servoNumber1, 0)
     basic.pause(500)
-    basic.showString('bye')
     basic.showIcon(IconNames.Happy)
 })
