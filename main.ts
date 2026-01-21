@@ -2,7 +2,7 @@
  *
  * Created by: Tiago Baker
  * Created on: Jan 2026
- * This program This program moves servo 0 and 80 degrees
+ * This program This program moves servo to 0 and 80 degrees
 */
 
 // variables 
